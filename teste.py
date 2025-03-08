@@ -1,17 +1,13 @@
-name = input ('Qual é o seu nome ?')
+Teste = "Hello World !"
 
-print ('Olá, bem vindo !', name)
+print (Teste)
 
-print ('Vamos fazer algumas, sobre voce e sua vida, certo ?')
 
-peso = input ('Quanto voce pesa ?')
+Altura = 180
 
-peso_int = int (peso)
+Peso = 900
 
-altura = input ('Qual a sua altura ?')
 
-altura_int = int (altura )
+IMC = (Altura / Peso) ** 2
 
-\\total = ((peso_int / altura_int) * altura_int)
-
-\\print (total)
+print (IMC)
