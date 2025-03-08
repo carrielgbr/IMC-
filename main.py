@@ -1,1 +1,0 @@
-print("ESSE É O CALCULO DO IMC MEU NOBRE")
